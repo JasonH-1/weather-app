@@ -1,0 +1,27 @@
+.location-input {
+  width: 200px;
+  height: 32px;
+  border-width: 5px;
+  border-color: black;
+  border-radius: 10px;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.weather-card {
+  background-color: rgb(210, 96, 96);
+  border-radius: 10px;
+  padding: 50px;
+  margin-top: 10px;
+}
+
+html, body {
+  justify-content: center;
+}
